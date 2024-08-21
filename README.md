@@ -17,7 +17,7 @@ Hi, I'm Amrit, a passionate software developer with a strong foundation in compu
 ### Notable Projects
 -------------------
 
-* **ShiftSync**: A scheduling application for shift workers
+* **[ShiftSync](https://github.com/Raiyan03/shift-sync)**: A scheduling application for shift workers 
 * **YouTube Video Downloader Library**: A library currently under development that allows users to download YouTube videos (coming soon!)
 
 ### About Me
