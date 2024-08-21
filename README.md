@@ -31,7 +31,7 @@ When I'm not coding, you can find me:
 ### Get in Touch
 ----------------
 
-Feel free to reach out to me on GitHub or via email at [your email address]. I'm always open to collaborating on new projects, discussing tech, or just chatting about life.
+Feel free to reach out to me on GitHub or via email at ad70138@gmail.com . I'm always open to collaborating on new projects, discussing tech, or just chatting about life.
 
 ### Fun Fact
 -------------
